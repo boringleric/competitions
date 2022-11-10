@@ -23,6 +23,7 @@
 而且发现我之前做的数据集还有错误，不过本着遵循原版的精神，没有做后续优化，有想法的同学可以继续尝试，感谢！
 
 执行流程：
+
 0. 基本环境是python 3.9，cudatoolkit 10.2，cudnn 7.6.2，其他见requirements.txt，append_v5.jsonl生成方式在append_code文件夹，banlist_v2.txt是我使用正则等方式手动过滤生成的；
 1. 先把数据放到data文件夹；
 2. 执行gen_train_data，构造训练数据；
