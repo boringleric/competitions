@@ -1,0 +1,6 @@
+transformers==4.21.1
+torch==1.9.0
+nlpcda==2.5.8
+rapidfuzz==2.5.0
+pandas==1.4.3
+scikit-learn
